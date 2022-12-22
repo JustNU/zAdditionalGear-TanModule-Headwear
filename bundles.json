@@ -1,0 +1,260 @@
+{
+    "manifest": [
+		{
+            "key": "AddGearTan/Headwear/head_bandana.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Headwear/mich2001.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Headwear/mich2002.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Headwear/doorkicker.bundle",
+            "dependencyKeys": [
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/beret.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/6b47.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/achhc_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "AddGearTan/Headwear/achhc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearTan/Headwear/achhc_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/beanie_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "AddGearTan/Headwear/beanie.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearTan/Headwear/beanie_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"cubemaps"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/bear_cap_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "AddGearTan/Headwear/bear_cap.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearTan/Headwear/bear_cap_textures.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/caiman.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/regular_cap_textures.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "AddGearTan/Headwear/regular_cap.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"AddGearTan/Headwear/regular_cap_textures.bundle",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/tc800.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/uxpro.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/tk_heavy_trooper.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/caiman_applique.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/caiman_mandible.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/caiman_visor.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/ops_core_fast_visor.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/ops_core_armor_textures.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearTan/MiscGear/ops_core_mandible.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"AddGearTan/MiscGear/ops_core_armor_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/ops_core_side_armor.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"AddGearTan/MiscGear/ops_core_armor_textures.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/MiscGear/ops_core_visor.bundle",
+            "dependencyKeys": [
+                "shaders",
+				"cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/cap_backwards.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "AddGearTan/Headwear/cap_backwards_tagilla.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Headwear/untar_helmet_diff.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearTan/Headwear/untar_helmet_gloss.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearTan/Headwear/untar_helmet_nrm.bundle",
+            "dependencyKeys": []
+        },
+		{
+            "key": "AddGearTan/Headwear/untar_helmet_materials.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+				"AddGearTan/Headwear/untar_helmet_gloss.bundle",
+				"AddGearTan/Headwear/untar_helmet_diff.bundle",
+				"AddGearTan/Headwear/untar_helmet_nrm.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Headwear/untar_helmet_mesh.bundle",
+            "dependencyKeys": [
+				"shaders",
+                "cubemaps",
+				"AddGearTan/Headwear/untar_helmet_gloss.bundle",
+				"AddGearTan/Headwear/untar_helmet_diff.bundle",
+				"AddGearTan/Headwear/untar_helmet_nrm.bundle",
+				"AddGearTan/Headwear/untar_helmet_materials.bundle"
+            ]
+        },
+		{
+            "key": "AddGearTan/Headwear/untar_helmet.bundle",
+            "dependencyKeys": [
+				"shaders",
+                "cubemaps",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"AddGearTan/Headwear/untar_helmet_gloss.bundle",
+				"AddGearTan/Headwear/untar_helmet_diff.bundle",
+				"AddGearTan/Headwear/untar_helmet_nrm.bundle",
+				"AddGearTan/Headwear/untar_helmet_materials.bundle",
+				"AddGearTan/Headwear/untar_helmet_mesh.bundle"
+            ]
+        }
+    ]
+}
