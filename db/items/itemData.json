@@ -1,66 +1,82 @@
 {
 	"AddGearTan_6B47": {
 		"BaseItemID": "5a7c4850e899ef00150be885",
-		"BundlePath": "AddGearTan/Headwear/6b47.bundle"
+		"BundlePath": "AddGearTan/Headwear/6b47.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Galvion_Caiman": {
 		"BaseItemID": "5f60b34a41e30a4ab12a6947",
-		"BundlePath": "AddGearTan/Headwear/caiman.bundle"
+		"BundlePath": "AddGearTan/Headwear/caiman.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_MICH_2001": {
 		"BaseItemID": "5d5e7d28a4b936645d161203",
-		"BundlePath": "AddGearTan/Headwear/mich2001.bundle"
+		"BundlePath": "AddGearTan/Headwear/mich2001.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_MICH_2002": {
 		"BaseItemID": "5d5e9c74a4b9364855191c40",
-		"BundlePath": "AddGearTan/Headwear/mich2002.bundle"
+		"BundlePath": "AddGearTan/Headwear/mich2002.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_TC_800": {
 		"BaseItemID": "5e4bfc1586f774264f7582d3",
-		"BundlePath": "AddGearTan/Headwear/tc800.bundle"
+		"BundlePath": "AddGearTan/Headwear/tc800.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_ACHHC": {
 		"BaseItemID": "5b40e3f35acfc40016388218",
-		"BundlePath": "AddGearTan/Headwear/achhc.bundle"
+		"BundlePath": "AddGearTan/Headwear/achhc.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Door_Kicker": {
 		"BaseItemID": "5d96141523f0ea1b7f2aacab",
-		"BundlePath": "AddGearTan/Headwear/doorkicker.bundle"
+		"BundlePath": "AddGearTan/Headwear/doorkicker.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Head_Bandana": {
 		"BaseItemID": "5b43271c5acfc432ff4dce65",
-		"BundlePath": "AddGearTan/Headwear/head_bandana.bundle"
+		"BundlePath": "AddGearTan/Headwear/head_bandana.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Cap_Bear": {
 		"BaseItemID": "5aa2a7e8e5b5b00016327c16",
-		"BundlePath": "AddGearTan/Headwear/bear_cap.bundle"
+		"BundlePath": "AddGearTan/Headwear/bear_cap.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Cap_Regular": {
 		"BaseItemID": "5aa2a7e8e5b5b00016327c16",
-		"BundlePath": "AddGearTan/Headwear/regular_cap.bundle"
+		"BundlePath": "AddGearTan/Headwear/regular_cap.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Beret": {
 		"BaseItemID": "5f60e6403b85f6263c14558c",
-		"BundlePath": "AddGearTan/Headwear/beret.bundle"
+		"BundlePath": "AddGearTan/Headwear/beret.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_UX_Pro": {
 		"BaseItemID": "5aa2ba46e5b5b000137b758d",
-		"BundlePath": "AddGearTan/Headwear/uxpro.bundle"
+		"BundlePath": "AddGearTan/Headwear/uxpro.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Beanie": {
 		"BaseItemID": "572b7fa124597762b472f9d2",
-		"BundlePath": "AddGearTan/Headwear/beanie.bundle"
+		"BundlePath": "AddGearTan/Headwear/beanie.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Cap_Backwards": {
 		"BaseItemID": "60a7acf20c5cb24b01346648",
-		"BundlePath": "AddGearTan/Headwear/cap_backwards.bundle"
+		"BundlePath": "AddGearTan/Headwear/cap_backwards.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_Cap_Tagilla": {
 		"BaseItemID": "60a7acf20c5cb24b01346648",
-		"BundlePath": "AddGearTan/Headwear/cap_backwards_tagilla.bundle"
+		"BundlePath": "AddGearTan/Headwear/cap_backwards_tagilla.bundle",
+		"LootWeigthMult": 0.5
 	},
 	"AddGearTan_M92": {
 		"BaseItemID": "5aa7d03ae5b5b00016327db5",
-		"BundlePath": "AddGearTan/Headwear/untar_helmet.bundle"
+		"BundlePath": "AddGearTan/Headwear/untar_helmet.bundle",
+		"LootWeigthMult": 0.5
 	}
 }
