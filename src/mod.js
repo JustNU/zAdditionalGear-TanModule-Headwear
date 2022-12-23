@@ -79,18 +79,6 @@ class Mod
 				];
 			}
 		}
-		
-		/*
-		// Misc Gear //
-		core.AddItemRetexture(db, 	"5a16ba61fcdbcb098008728a", "AddGearTan_ops_core_mandible",	 	"AddGearTan/MiscGear/ops_core_mandible.bundle");
-		core.AddItemRetexture(db, 	"5ea058e01dbce517f324b3e2", "AddGearTan_tk_heavy_trooper", 		"AddGearTan/MiscGear/tk_heavy_trooper.bundle");
-		core.AddItemRetexture(db, 	"5f60b85bbdb8e27dee3dc985", "AddGearTan_caiman_applique", 		"AddGearTan/MiscGear/caiman_applique.bundle");
-		core.AddItemRetexture(db, 	"5f60bf4558eff926626a60f2", "AddGearTan_caiman_visor", 			"AddGearTan/MiscGear/caiman_visor.bundle");
-		core.AddItemRetexture(db, 	"5a16b7e1fcdbcb00165aa6c9", "AddGearTan_ops_core_visor", 		"AddGearTan/MiscGear/ops_core_visor.bundle");
-		core.AddItemRetexture(db, 	"5a16badafcdbcb001865f72d", "AddGearTan_ops_core_side_armor", 	"AddGearTan/MiscGear/ops_core_side_armor.bundle");
-		core.AddItemRetexture(db, 	"5f60c076f2bcbb675b00dac2", "AddGearTan_caiman_mandible", 		"AddGearTan/MiscGear/caiman_mandible.bundle");
-		core.AddItemRetexture(db, 	"5a16b672fcdbcb001912fa83", "AddGearTan_ops_core_fast_visor", 	"AddGearTan/MiscGear/ops_core_fast_visor.bundle");
-		*/
 	}
 }
 
