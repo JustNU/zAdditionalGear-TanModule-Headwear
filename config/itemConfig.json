@@ -10,11 +10,21 @@
 		"AddGearTan_Head_Bandana": true,
 		"AddGearTan_Cap_Bear": true,
 		"AddGearTan_Cap_Regular": true,
+		"AddGearTan_Cap_Backwards": true,
+		"AddGearTan_Cap_Tagilla": true,
 		"AddGearTan_Beret": true,
 		"AddGearTan_UX_Pro": true,
 		"AddGearTan_Beanie": true,
-		"AddGearTan_Cap_Backwards": true,
-		"AddGearTan_Cap_Tagilla": true,
 		"AddGearTan_M92": true
+	},
+	"Helmet Modules": {
+		"AddGearTan_TacKek_Heavy_Trooper": true,
+		"AddGearTan_Caiman_Applique": true,
+		"AddGearTan_Caiman_Visor": true,
+		"AddGearTan_Caiman_Mandible": true,
+		"AddGearTan_Ops_Core_Visor_Small": true,
+		"AddGearTan_Ops_Core_Visor_Fast": true,
+		"AddGearTan_Ops_Core_Side_Armor": true,
+		"AddGearTan_Ops_Core_Mandible": true
 	}
 }
