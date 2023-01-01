@@ -41,6 +41,7 @@ class Mod
 			
 			// change price
 			database.templates.prices["AddGearTan_Cap_Backwards"] = 4326;
+			
 			for (const handbookItemIndex in database.templates.handbook.Items) {
 				if (database.templates.handbook.Items[handbookItemIndex].Id === "AddGearTan_Cap_Backwards") {
 					database.templates.handbook.Items[handbookItemIndex].Price = 1642;
