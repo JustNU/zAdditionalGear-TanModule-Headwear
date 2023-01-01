@@ -1,93 +1,93 @@
 {
 	"AddGearTan_Ops_Core_Mandible": {
-        "Name": "Ops-Core FAST Gunsight Mandible (Tan)",
+        "Name": "Ops-Core FAST Gunsight Mandible (Desert Tan)",
 		"ShortName": "Gunsight",
 		"Description": "An additional armor module for the Ops-Core FAST helmet, mounted on the Side Armor component."
     },
 	"AddGearTan_TacKek_Heavy_Trooper": {
-        "Name": "Tac-Kek Heavy Trooper mask for Ops-Core-type helmets (Tan)",
+        "Name": "Tac-Kek Heavy Trooper mask for Ops-Core-type helmets (Desert Tan)",
 		"ShortName": "TK Heavy Trooper",
 		"Description": "The Tac-Kek Heavy Trooper mask is an additional ballistic module for Ops-Core-type helmets, based on the famous movie universe. This is the way."
     },
 	"AddGearTan_Caiman_Applique": {
-        "Name": "Galvion Caiman Hybrid Ballistic Applique (Tan)",
+        "Name": "Galvion Caiman Hybrid Ballistic Applique (Desert Tan)",
 		"ShortName": "Caiman BA",
 		"Description": "An additional up-armor helmet shell attachment to elevate or enhance ballistic and fragmentation protection of the Caiman Hybrid Helmet. Manufactured by Galvion."
 	},
 	"AddGearTan_Caiman_Visor": {
-        "Name": "Galvion Caiman Fixed Arm Visor (Tan)",
+        "Name": "Galvion Caiman Fixed Arm Visor (Desert Tan)",
 		"ShortName": "Caiman FAV",
 		"Description": "A locked-in ballistic visor shield for installation on the Caiman Hybrid helmet's shroud. Manufactured by Galvion."
     },
 	"AddGearTan_Ops_Core_Visor_Small": {
-        "Name": "Ops-Core FAST multi-hit ballistic face shield (Tan)",
+        "Name": "Ops-Core FAST multi-hit ballistic face shield (Desert Tan)",
 		"ShortName": "FAST FS",
 		"Description": "A special high-strength ballistic visor for the Ops-Core FAST helmet, used by the special forces assault teams."
     },
 	"AddGearTan_Ops_Core_Side_Armor": {
-        "Name": "Ops-Core FAST Side Armor (Tan)",
+        "Name": "Ops-Core FAST Side Armor (Desert Tan)",
 		"ShortName": "FAST Ears",
 		"Description": "An additional armor module for the Ops-Core FAST helmet, protects the ears from shrapnel and small caliber ricochets."
     },
 	"AddGearTan_Caiman_Mandible": {
-        "Name": "Galvion Caiman Hybrid Ballistic Mandible Guard (Tan)",
+        "Name": "Galvion Caiman Hybrid Ballistic Mandible Guard (Desert Tan)",
 		"ShortName": "Caiman BMG",
 		"Description": "A special additional ballistic protection for the Caiman Hybrid helmet, mounted on the side rails. Manufactured by Galvion."
     },
 	"AddGearTan_Ops_Core_Visor_Fast": {
-        "Name": "Ops-Core FAST Visor (Tan)",
+        "Name": "Ops-Core FAST Visor (Desert Tan)",
 		"ShortName": "FAST",
 		"Description": "The FAST visor, designed to protect the eyes and part of the user's face from shell fragments, mines, grenades, drops of chemically aggressive liquids and oils, coarsely dispersed aerosols, thermal factors, atmospheric influences and mechanical damages in all types of combat operations."
 	},
 	"AddGearTan_6B47": {
-        "Name": "6B47 Ratnik-BSh helmet (Tan)",
+        "Name": "6B47 Ratnik-BSh helmet (Desert Tan)",
 		"ShortName": "6B47",
 		"Description": "6B47 is an aramid helmet of Russian origin. As part of the Ratnik program, it is the new standard-issue helmet for most of the Russian Armed Forces. The 6B47 is similar to previous generation helmets such as the 6B7-1M and 6B27. It has equal protection but weighs slightly less, floats in water, and has mounting equipment for lights and night vision devices. The helmet can be fitted with a variety of covers for different environments."
     },
 	"AddGearTan_Galvion_Caiman": {
-        "Name": "Galvion Caiman Hybrid helmet (Tan)",
+        "Name": "Galvion Caiman Hybrid helmet (Desert Tan)",
 		"ShortName": "Caiman",
 		"Description": "The Caiman Hybrid helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion."
     },
 	"AddGearTan_MICH_2001": {
-        "Name": "MSA ACH TC-2001 MICH Series Helmet (Tan)",
+        "Name": "MSA ACH TC-2001 MICH Series Helmet (Desert Tan)",
 		"ShortName": "TC-2001",
 		"Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
     },
 	"AddGearTan_MICH_2002": {
-        "Name": "MSA ACH TC-2002 MICH Series Helmet (Tan)",
+        "Name": "MSA ACH TC-2002 MICH Series Helmet (Desert Tan)",
 		"ShortName": "TC-2002",
 		"Description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
     },
 	"AddGearTan_TC_800": {
-        "Name": "MSA Gallet TC 800 High Cut combat helmet (Tan)",
+        "Name": "MSA Gallet TC 800 High Cut combat helmet (Desert Tan)",
 		"ShortName": "TC 800",
 		"Description": "The MSA TC 800 ballistic helmet, designed for use by tactical teams of police special forces, in combat and reconnaissance operations. It can be modified by various components."
     },
 	"AddGearTan_ACHHC": {
-        "Name": "HighCom Striker ACHHC IIIA black helmet (Tan)",
+        "Name": "HighCom Striker ACHHC IIIA black helmet (Desert Tan)",
 		"ShortName": "ACHHC",
-		"Description": "A combat helmet manufactured by HighCom, the High Cut version. Does not feature any additional mounts. Tan version."
+		"Description": "A combat helmet manufactured by HighCom, the High Cut version. Does not feature any additional mounts. Desert Tan version."
     },
 	"AddGearTan_Door_Kicker": {
-        "Name": "Door Kicker Boonie hat (Tan)",
+        "Name": "Door Kicker Boonie hat (Desert Tan)",
 		"ShortName": "\"Door Kicker\"",
 		"Description": "A well-worn \"PriceLess\" boonie hat. It is believed that those who wear it can open any door in this world."
     },
 	"AddGearTan_Head_Bandana": {
-        "Name": "Bandana (Tan)",
+        "Name": "Bandana (Desert Tan)",
 		"ShortName": "Bandana",
 		"Description": "A tan colored headgear, actively used by special forces around the world."
     },
 	"AddGearTan_Cap_Bear": {
-        "Name": "BEAR baseball cap (Tan)",
+        "Name": "BEAR baseball cap (Desert Tan)",
 		"ShortName": "BEAR",
-		"Description": "A tactical BEAR PMC baseball cap. Tan version."
+		"Description": "A tactical BEAR PMC baseball cap. Desert Tan version."
     },
 	"AddGearTan_Cap_Regular": {
-        "Name": "Baseball cap (Tan)",
+        "Name": "Baseball cap (Desert Tan)",
 		"ShortName": "Cap",
-		"Description": "A tactical baseball cap. Tan version."
+		"Description": "A tactical baseball cap. Desert Tan version."
     },
 	"AddGearTan_Beret": {
         "Name": "Beret (Tan)",
@@ -95,27 +95,27 @@
 		"Description": "Just a tan beret."
     },
 	"AddGearTan_UX_Pro": {
-        "Name": "UX PRO Beanie (Tan)",
+        "Name": "UX PRO Beanie (Desert Tan)",
 		"ShortName": "UXPRO",
 		"Description": "The warm and comfortable UX PRO beanie. For you, only for you. And that guy, too."
     },
 	"AddGearTan_Beanie": {
-        "Name": "Beanie (Tan)",
+        "Name": "Beanie (Desert Tan)",
 		"ShortName": "Beanie",
 		"Description": "A warm knitted beanie, traditionally made for skiers but worn by everyone."
     },
 	"AddGearTan_Cap_Backwards": {
-        "Name": "Baseball cap (Tan, backwards)",
+        "Name": "Baseball cap (Desert Tan, backwards)",
 		"ShortName": "Cap",
-		"Description": "A tactical baseball cap. Tan version."
+		"Description": "A tactical baseball cap. Desert Tan version."
 	},
 	"AddGearTan_Cap_Tagilla": {
-        "Name": "BOSS cap (Tan)",
+        "Name": "BOSS cap (Desert Tan)",
 		"ShortName": "Cap",
 		"Description": "A fancy tan BOSS cap. Yo, fella, you da real BOSS now!"	
 	},
 	"AddGearTan_M92": {
-        "Name": "Gefechtshelm M92 (Tan)",
+        "Name": "Gefechtshelm M92 (Desert Tan)",
 		"ShortName": "M92",
 		"Description": "The Gefechtshelm M92 (or Gefechtshelm Schuberth B826) is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1956 steel helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
 	}
