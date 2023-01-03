@@ -35,7 +35,7 @@ class Mod
 		// deal with edge cases
 		// backwards cap
 		if (itemConfig["Head Wear"]["AddGearTan_Cap_Backwards"]) {
-			core.addItemRetexture(modDb, "AddGearTan_Cap_Backwards", "60a7acf20c5cb24b01346648", "AddGearTan/Headwear/cap_backwards.bundle", false, false, itemData["AddGearTan_Cap_Backwards"].LootWeigthMult);
+			core.addItemRetexture(modDb, "AddGearTan_Cap_Backwards", itemData["AddGearTan_Cap_Backwards"].BaseItemID, itemData["AddGearTan_Cap_Backwards"].BundlePath, false, false, itemData["AddGearTan_Cap_Backwards"].LootWeigthMult);
 			
 			if (config.EnableTradeOffers)
 				core.copyTradeOffers("AddGearTan_Cap_Backwards", "5aa2a7e8e5b5b00016327c16");
