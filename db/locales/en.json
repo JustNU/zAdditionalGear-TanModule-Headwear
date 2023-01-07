@@ -19,7 +19,7 @@
 		"ShortName": "Caiman FAV",
 		"Description": "A locked-in ballistic visor shield for installation on the Caiman Hybrid helmet's shroud. Manufactured by Galvion."
     },
-	"AddGearTan_Ops_Core_Visor_Small": {
+	"AddGearTan_Ops_Core_Visor_Fast": {
         "Name": "Ops-Core FAST multi-hit ballistic face shield (Desert Tan)",
 		"ShortName": "FAST FS",
 		"Description": "A special high-strength ballistic visor for the Ops-Core FAST helmet, used by the special forces assault teams."
@@ -34,7 +34,7 @@
 		"ShortName": "Caiman BMG",
 		"Description": "A special additional ballistic protection for the Caiman Hybrid helmet, mounted on the side rails. Manufactured by Galvion."
     },
-	"AddGearTan_Ops_Core_Visor_Fast": {
+	"AddGearTan_Ops_Core_Visor_Small": {
         "Name": "Ops-Core FAST Visor (Desert Tan)",
 		"ShortName": "FAST",
 		"Description": "The FAST visor, designed to protect the eyes and part of the user's face from shell fragments, mines, grenades, drops of chemically aggressive liquids and oils, coarsely dispersed aerosols, thermal factors, atmospheric influences and mechanical damages in all types of combat operations."

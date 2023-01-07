@@ -99,12 +99,12 @@
 		"BundlePath": "AddGearTan/MiscGear/caiman_mandible.bundle",
 		"LootWeigthMult": 0.25
 	},
-	"AddGearTan_Ops_Core_Visor_Small": {
+	"AddGearTan_Ops_Core_Visor_Fast": {
 		"BaseItemID": "5a16b7e1fcdbcb00165aa6c9",
 		"BundlePath": "AddGearTan/MiscGear/ops_core_visor.bundle",
 		"LootWeigthMult": 0.25
 	},
-	"AddGearTan_Ops_Core_Visor_Fast": {
+	"AddGearTan_Ops_Core_Visor_Small": {
 		"BaseItemID": "5a16b672fcdbcb001912fa83",
 		"BundlePath": "AddGearTan/MiscGear/ops_core_fast_visor.bundle",
 		"LootWeigthMult": 0.25
